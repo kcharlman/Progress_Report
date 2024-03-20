@@ -98,7 +98,7 @@ function sortOldest() {
 }
 
 addEntry("2024-03-18","1. Briefing about company, rules and other employer.\n2. Research about \"Khaleef Group\" website and improvement of UI/UX with content.")
-addEntry("2024-03-19","Hellooo")
-
+addEntry("2024-03-19","1. Research about myHR Khaleef Net website about improvement.\n2. Fetch code and other sources using the Developer Tools (Back-End View or Inspect).\n3. Can't continue to develop the website due to unauthenticated API.\n4. Proposed improvement of the website:\n\t- Add filter \"By Gender\" in employee statistics.\n\t- Admin View: Upgrade the \"Attendance Overview\"to see the line graph of attendance (eg., This year, This month, Last month, This week, Last week, or Today). Today by default.\n\tChange the background color on the left bar to set the comfortability of the \Khaleef Group\" icon. Icon used have background removed.")
+addEntry("2024-03-20","1. Research and learn about API, Node.js, MongoDB (Database).\n2. Research about development of line graph in website.\n3. Create website for self internship report that will be updated afterwork.")
 
     

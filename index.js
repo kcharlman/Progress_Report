@@ -97,9 +97,36 @@ function sortOldest() {
     });
 }
 
-addEntry("2024-03-18","1. Briefing about company, rules and other employer.\n2. Research about \"Khaleef Group\" website and improvement of UI/UX with content.")
-addEntry("2024-03-19","1. Research about KhaleefApp website about improvement.\n2. Fetch code and other sources using the Developer Tools (Back-End View or Inspect).\n3. Can't continue to develop the website due to unauthenticated API.\n4. Proposed improvement of the website:\n ->  Add filter \"By Gender\" in employee statistics.\n ->  Admin View: Upgrade the \"Attendance Overview\"to see the line graph of attendance (eg., This year, This month, Last month, This week, Last week, or Today). Today by default.\n ->  Change the background color on the left bar to set the comfortability of the \"Khaleef Group\" icon. Icon used have background removed.")
-addEntry("2024-03-20","1. Research and learn about API, Node.js, MongoDB (Database).\n2. Research about development of line graph in website.\n3. Create website for self internship report that will be updated afterwork.\n4. In progress to develop the KhaleefApp website.\n5. Discussion with SV:\n ->  Apply ERP on KhaleefApp system.\n ->  Need to come out with modules.\n ->  Use the \"DASH\" website as a main framework (Login as company. Email: company@example.com, Password: 1234)")
-addEntry("2024-03-21","1. Research about ERP modules.\n2. Creates documentation for project report in Microsoft Word.\n3. Research about other website to understand the ERP system.\n4. Learn about business management in a company.\n5. Come out with ERP modules.")
-addEntry("2024-03-22","1. Learn to connect database with simple website.\n2. Study different type of website for HR management.\n3. Continue learn about API data and Node.js.\n4. Succesfully fetch data from MongoDB database to localhost website.\n5. Next can study web hosting to get, add, and delete data in the cloud.")
-addEntry("2024-03-23","Nothing yet..")
+addEntry("2024-03-18","\
+        1. Briefing about company, rules and other employer.\n\
+        2. Research about \"Khaleef Group\" website and improvement of UI/UX with content.")
+addEntry("2024-03-19","1. Research about KhaleefApp website about improvement.\n\
+        2. Fetch code and other sources using the Developer Tools (Back-End View or Inspect).\n\
+        3. Can't continue to develop the website due to unauthenticated API.\n\
+        4. Proposed improvement of the website:\n\
+         ->  Add filter \"By Gender\" in employee statistics.\n\
+         ->  Admin View: Upgrade the \"Attendance Overview\"to see the line graph of attendance (eg., This year, This month, Last month, This week, Last week, or Today). Today by default.\n\
+         ->  Change the background color on the left bar to set the comfortability of the \"Khaleef Group\" icon. Icon used have background removed.")
+addEntry("2024-03-20","\
+        1. Research and learn about API, Node.js, MongoDB (Database).\n\
+        2. Research about development of line graph in website.\n\
+        3. Create website for self internship report that will be updated afterwork.\n\
+        4. In progress to develop the KhaleefApp website.\n\
+        5. Discussion with SV:\n ->  Apply ERP on KhaleefApp system.\n ->  Need to come out with modules.\n ->  Use the \"DASH\" website as a main framework (Login as company. Email: company@example.com, Password: 1234)")
+addEntry("2024-03-21","\
+        1. Research about ERP modules.\n\
+        2. Creates documentation for project report in Microsoft Word.\n\
+        3. Research about other website to understand the ERP system.\n\
+        4. Learn about business management in a company.\n\
+        5. Come out with ERP modules.")
+addEntry("2024-03-22","\
+        1. Learn to connect database with simple website.\n\
+        2. Study different type of website for HR management.\n\
+        3. Continue learn about API data and Node.js.\n\
+        4. Succesfully fetch data from MongoDB database to localhost website.\n5. Next can study web hosting to get, add, and delete data in the cloud.")
+addEntry("2024-03-25","\
+        1. Study about web hosting and domain hosting.\n\
+        2. Study about mySQL and PHP programming language.\n\
+        3. Succesfully connect between website and mySQL database using local host.\n\
+        4. Manage to get, delete and delete data in the database.\n\
+        5. Next can search for free web hosting with database to test the connection between mySQL and website online.")

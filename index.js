@@ -140,5 +140,5 @@ addEntry("2024-03-26","\
 addEntry("2024-03-27","\
         1. Sucessfully deploy API data from database D1 using SQL command.\n\
         2. Recap and study all SQL command.\n\
-        3. Example of API data: https://d1-tutorial.kcharlman.workers.dev/api/data\n\
+        3. Provide example of API data from Cloudflare using database D1.\n\
         4. Study about data structure.")

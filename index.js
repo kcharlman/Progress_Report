@@ -131,9 +131,14 @@ addEntry("2024-03-25","\
         4. Manage to get, delete and delete data in the database.\n\
         5. Next can search for free web hosting with database to test the connection between mySQL and website online.")
 addEntry("2024-03-26","\
-        1. Study about Worker and D1 database in from Cloudflare Documentation.\n\
+        1. Study about Worker and D1 database from Cloudflare Documentation.\n\
         2. Sucessfully deploy database as a localhost using code.\n\
         3. Created a simple database using Worker in Cloudflare.\n\
         4. Able to deploy simple API response.\n\
         5. Next can try to deploy API data from database D1 and using SQL command.\n\
         6. Next can try to create a simple website and fetch the API data.")
+addEntry("2024-03-27","\
+        1. Sucessfully deploy API data from database D1 using SQL command.\n\
+        2. Recap and study all SQL command.\n\
+        3. Example of API data: https://d1-tutorial.kcharlman.workers.dev/api/data\n\
+        4. Study about data structure.")

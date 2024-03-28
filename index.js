@@ -142,3 +142,8 @@ addEntry("2024-03-27","\
         2. Recap and study all SQL command.\n\
         3. Provide example of API data from Cloudflare using database D1.\n\
         4. Study about data structure.")
+addEntry("2024-03-28","\
+        1. Read and Learn documentation about Cloudflare database D1.\n\
+        2. Learn about communication between front-end and back-end server.\n\
+        3. Stuck with 404 error. (Cloudflare Worker)")
+sortLatest()

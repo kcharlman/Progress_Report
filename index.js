@@ -146,4 +146,9 @@ addEntry("2024-03-28","\
         1. Read and Learn documentation about Cloudflare database D1.\n\
         2. Learn about communication between front-end and back-end server.\n\
         3. Stuck with 404 error. (Cloudflare Worker)")
+addEntry("2024-04-01","\
+        1. Explore example of websites.\n\
+        2. Discussed with supervisor about ERP module and understand the bigger picture of the website.\n\
+        3. Initialize website design using Canva.\n\
+        4. Next can continue with extra sub-module of ERP and start design.")
 sortLatest()

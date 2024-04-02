@@ -151,4 +151,10 @@ addEntry("2024-04-01","\
         2. Discussed with supervisor about ERP module and understand the bigger picture of the website.\n\
         3. Initialize website design using Canva.\n\
         4. Next can continue with extra sub-module of ERP and start design.")
+addEntry("2024-04-02","\
+        1. Explore about Finance Management.\n\
+        2. Research about bookkeeping template.\n\
+        3. Research about purchases template. \n\
+        4. Research about finance goal template. \n\
+        5. Update extra submodule on Finance Management.")
 sortLatest()

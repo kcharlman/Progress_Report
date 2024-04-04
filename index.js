@@ -157,4 +157,12 @@ addEntry("2024-04-02","\
         3. Research about purchases template. \n\
         4. Research about finance goal template. \n\
         5. Update extra submodule on Finance Management.")
+addEntry("2024-04-03","\
+        1. Use design as visualisation of the extra module.\n\
+        2. Design using Canva.\n\
+        3. Search for suitable logo for designing.")
+addEntry("2024-04-04","\
+        1. Update design in Canva.\n\
+        2. Research about Projection template.\n\
+        3. Get the teplate for Petty Cash.")
 sortLatest()

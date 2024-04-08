@@ -162,7 +162,20 @@ addEntry("2024-04-03","\
         2. Design using Canva.\n\
         3. Search for suitable logo for designing.")
 addEntry("2024-04-04","\
-        1. Update design in Canva.\n\
+        1. Update draft design in Canva.\n\
         2. Research about Projection template.\n\
-        3. Get the teplate for Petty Cash.")
+        3. Get the template for Petty Cash from employee (Kak Shidah).")
+addEntry("2024-04-05","\
+        1. Fixing design for Finance Management.\n\
+        2. Research about sales agent template.\n\
+        3. Research about leads and deals template.\n\
+        4. Research about Projection Proposal templates.\n\
+        5. Need clarification: Bank Feed.\n\
+        6. Need old template: Purchasing.")
+addEntry("2024-04-08","\
+        1. Change color pallete.\n\
+        2. Research about Core Product template.\n\
+        3. Need clarification: Bank Feed.\n\
+        4. Need old template: Purchasing, Proposal.\n\
+        5. Update draft design in Canva.")
 sortLatest()

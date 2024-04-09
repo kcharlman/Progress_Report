@@ -164,7 +164,7 @@ addEntry("2024-04-03","\
 addEntry("2024-04-04","\
         1. Update draft design in Canva.\n\
         2. Research about Projection template.\n\
-        3. Get the template for Petty Cash from employee (Kak Shidah).")
+        3. Received the template for Petty Cash from employee (Kak Shidah).")
 addEntry("2024-04-05","\
         1. Fixing design for Finance Management.\n\
         2. Research about sales agent template.\n\
@@ -176,6 +176,11 @@ addEntry("2024-04-08","\
         1. Change color pallete.\n\
         2. Research about Core Product template.\n\
         3. Need clarification: Bank Feed.\n\
-        4. Need old template: Purchasing, Proposal.\n\
+        4. Need old template: Purchasing, Project Proposal.\n\
         5. Update draft design in Canva.")
+addEntry("2024-04-09","\
+        1. Received the template for Purchasing Requisition from employee (Kak Shidah and Pn Masita.\n\
+        2. Update draft design for Finance > Purchasing.\n\
+        3. Need clarification: Bank Feed.\n\
+        4. Need old template: Project Proposal")
 sortLatest()

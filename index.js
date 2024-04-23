@@ -183,4 +183,25 @@ addEntry("2024-04-09","\
         2. Update draft design for Finance > Purchasing.\n\
         3. Need clarification: Bank Feed.\n\
         4. Need old template: Project Proposal")
+addEntry("2024-04-15","\
+        1. Meeting with SV.\n\
+        2. Plan to use the current website as main framework.\n\
+        3. Need to upgrade the UI and UX.\n\
+        4. Use color theme as the company's logo color.")
+addEntry("2024-04-16","\
+        1. Received the demo website from SV.\n\
+        2. Obtain the copy of the source code by using website Developer Tools.\n\
+        3. Understand the overview and structure of the system through code.")
+addEntry("2024-04-17","\
+        1. Try to change the submenu interface.\n\
+        2. Grouped the Dashboard interface into single menu.")
+addEntry("2024-04-18","\
+        1. Continue to upgrade the submenu interface.\n\
+        2. Solved error regarding dashboard widget.")
+addEntry("2024-04-22","\
+        1. Finished submenu interface for Dashboard.\n\
+        2. Continue with submenu HR records.")
+addEntry("2024-04-23","\
+        1. Finished submenu interface for HR records.\n\
+        2. Continue with submenu Accounting.")
 sortLatest()

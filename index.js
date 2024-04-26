@@ -204,4 +204,17 @@ addEntry("2024-04-22","\
 addEntry("2024-04-23","\
         1. Finished submenu interface for HR records.\n\
         2. Continue with submenu Accounting.")
+addEntry("2024-04-24","\
+        1. Continue with all submenu.\n\
+        2. Discuss with SV to migrate current system to another domain/hosting.\n\
+        3. Read and study the guide description for migrating Perfex system.")
+addEntry("2024-04-25","\
+        1. Continue with all submenu.\n\
+        2. Compress and download system file.\n\
+        3. Export SQL database.\n\
+        4. Created new sub-domain to live the system interface for testing.")
+addEntry("2024-04-26","\
+        1. Continue with all submenu.\n\
+        2. Faced disk storage error to upload system file in the new domain/hosting.\n\
+        3. Design interface for the system.")
 sortLatest()

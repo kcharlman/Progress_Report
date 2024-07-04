@@ -97,6 +97,7 @@ function sortOldest() {
     });
 }
 
+// WEEK 1
 addEntry("2024-03-18","\
         1. Briefing about company, rules and other employer.\n\
         2. Research about \"Khaleef Group\" website and improvement of UI/UX with content.")
@@ -124,6 +125,8 @@ addEntry("2024-03-22","\
         2. Study different type of website for HR management.\n\
         3. Continue learn about API data and Node.js.\n\
         4. Succesfully fetch data from MongoDB database to localhost website.\n5. Next can study web hosting to get, add, and delete data in the cloud.")
+
+// WEEK 2
 addEntry("2024-03-25","\
         1. Study about web hosting and domain hosting.\n\
         2. Study about mySQL and PHP programming language.\n\
@@ -146,6 +149,8 @@ addEntry("2024-03-28","\
         1. Read and Learn documentation about Cloudflare database D1.\n\
         2. Learn about communication between front-end and back-end server.\n\
         3. Stuck with 404 error. (Cloudflare Worker)")
+
+// WEEK 3
 addEntry("2024-04-01","\
         1. Explore example of websites.\n\
         2. Discussed with supervisor about ERP module and understand the bigger picture of the website.\n\
@@ -172,6 +177,8 @@ addEntry("2024-04-05","\
         4. Research about Projection Proposal templates.\n\
         5. Need clarification: Bank Feed.\n\
         6. Need old template: Purchasing.")
+
+// WEEK 4
 addEntry("2024-04-08","\
         1. Change color pallete.\n\
         2. Research about Core Product template.\n\
@@ -183,6 +190,8 @@ addEntry("2024-04-09","\
         2. Update draft design for Finance > Purchasing.\n\
         3. Need clarification: Bank Feed.\n\
         4. Need old template: Project Proposal")
+
+// WEEK 5
 addEntry("2024-04-15","\
         1. Meeting with SV.\n\
         2. Plan to use the current website as main framework.\n\
@@ -198,6 +207,8 @@ addEntry("2024-04-17","\
 addEntry("2024-04-18","\
         1. Continue to upgrade the submenu interface.\n\
         2. Solved error regarding dashboard widget.")
+
+// WEEK 6
 addEntry("2024-04-22","\
         1. Finished submenu interface for Dashboard.\n\
         2. Continue with submenu HR records.")
@@ -217,4 +228,113 @@ addEntry("2024-04-26","\
         1. Continue with all submenu.\n\
         2. Faced disk storage error to upload system file in the new domain/hosting.\n\
         3. Design interface for the system.")
+
+// WEEK 7
+addEntry("2024-04-29","\
+        1. Continue with all submenu\n\
+        2. Design interface for the system.\n")
+addEntry("2024-04-30","\
+        1. Finish with all submenu\n\
+        2. Design interface for the system.\n\
+        3. .")
+addEntry("2024-05-01","\
+         Labour Day")
+addEntry("2024-05-02","\
+        1. Design interface for the system.")
+addEntry("2024-05-03","\
+        1. Update design idea to SV.\n\
+        2. Design interface for the system.")
+
+// WEEK 8
+addEntry("2024-05-06","\
+        1. Apply new design idea.")
+addEntry("2024-05-07","\
+        1. Design interface for the system.")
+addEntry("2024-05-08","\
+        1. Design interface for the system.")
+addEntry("2024-05-09","\
+        1. Design interface for the system.\n\
+        2. Learning Laravel.")
+addEntry("2024-05-10","\
+        1. Design interface for the system.\n\
+        2. Receive example design from SV, Deskera ERP.\n\
+        3. Learning Laravel.")
+
+// WEEK 9
+addEntry("2024-05-13","\
+        1. Apply and testing Laravel framework as backend.")
+addEntry("2024-05-14","\
+        1. Make Login page with Laravel,\n\
+        2. Learn Authorization process on Laravel.")
+addEntry("2024-05-15","\
+        1. Continue with Login page.")
+addEntry("2024-05-16","\
+        1. Continue with Login page.")
+addEntry("2024-05-17","\
+        1. Continue with Login page.")
+
+// WEEK 10
+addEntry("2024-05-20","\
+        1. Start doing Dashboard module.")
+addEntry("2024-05-21","\
+        1. Continue with dashboard module.")
+addEntry("2024-05-22","\
+        WESAK")
+addEntry("2024-05-23","\
+        1. Continue with dashboard module.")
+addEntry("2024-05-24","\
+        1. Continue with dashboard module.")
+
+// WEEK 11
+addEntry("2024-05-27","\
+        1. Receive new idea for the system from SV.")
+addEntry("2024-05-28","\
+        1. Use Deskera as main interface reference.")
+addEntry("2024-05-29","\
+        1. Continue with design interface.")
+addEntry("2024-05-30","\
+        KAAMATAN")
+addEntry("2024-05-31","\
+        KAAMATAN.")
+
+// WEEK 12
+addEntry("2024-06-03","\
+        1. Start with Home module.")
+addEntry("2024-06-04","\
+        1. Continue with Home module.")
+addEntry("2024-06-05","\
+        1. Continue with Home module.\n\
+        2. Apply multicompany.")
+addEntry("2024-06-06","\
+        1. Use Biztrack as reference for user management module.")
+addEntry("2024-06-07","\
+        1. Start User Management module.")
+
+// WEEK 13
+addEntry("2024-06-10","\
+        1. Continue with User Management module")
+addEntry("2024-06-11","\
+        1. Continue with User Management module\n\
+        2. Apply geolocation feature.")
+addEntry("2024-06-12","\
+        1. Continue with User Management module.")
+addEntry("2024-06-13","\
+        1. Continue with User Management module.")
+addEntry("2024-06-14","\
+        1. Continue with User Management module.")
+
+// WEEK 14
+addEntry("2024-06-17","\
+        1. Continue with User Management module.\n\
+        2. Apply clock-in, check-in and checkout for attendance\n\
+        3. .")
+addEntry("2024-06-18","\
+        1. Continue with User Management module.")
+addEntry("2024-06-19","\
+        1. Continue with User Management module.\n\
+        2. Learn Kivy")
+addEntry("2024-06-20","\
+        1. Learn Kivy.")
+addEntry("2024-06-21","\
+        1. Develop simple mobile app using Kivy.")
 sortLatest()

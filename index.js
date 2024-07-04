@@ -299,9 +299,9 @@ addEntry("2024-05-31","\
 
 // WEEK 12
 addEntry("2024-06-03","\
-        1. Start with Home module.")
+        AGONG")
 addEntry("2024-06-04","\
-        1. Continue with Home module.")
+        1. Start with Home module.")
 addEntry("2024-06-05","\
         1. Continue with Home module.\n\
         2. Apply multicompany.")
@@ -325,9 +325,7 @@ addEntry("2024-06-14","\
 
 // WEEK 14
 addEntry("2024-06-17","\
-        1. Continue with User Management module.\n\
-        2. Apply clock-in, check-in and checkout for attendance\n\
-        3. .")
+        RAYA HAJI")
 addEntry("2024-06-18","\
         1. Continue with User Management module.")
 addEntry("2024-06-19","\

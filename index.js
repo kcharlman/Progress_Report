@@ -102,7 +102,7 @@ addEntry("2024-03-18","\
         1. Briefing about company, rules and other employer.\n\
         2. Research about \"Khaleef Group\" website and improvement of UI/UX with content.")
 addEntry("2024-03-19","1. Research about KhaleefApp website about improvement.\n\
-        2. Fetch code and other sources using the Developer Tools (Back-End View or Inspect).\n\
+        2. Fetch code and other sources using the Developer Tools (Inspect).\n\
         3. Can't continue to develop the website due to unauthenticated API.\n\
         4. Proposed improvement of the website:\n\
          ->  Add filter \"By Gender\" in employee statistics.\n\
@@ -142,7 +142,7 @@ addEntry("2024-03-26","\
         6. Next can try to create a simple website and fetch the API data.")
 addEntry("2024-03-27","\
         1. Sucessfully deploy API data from database D1 using SQL command.\n\
-        2. Recap and study all SQL command.\n\
+        2. Recap and study SQL command.\n\
         3. Provide example of API data from Cloudflare using database D1.\n\
         4. Study about data structure.")
 addEntry("2024-03-28","\
@@ -180,7 +180,7 @@ addEntry("2024-04-05","\
 
 // WEEK 4
 addEntry("2024-04-08","\
-        1. Change color pallete.\n\
+        1. Change color pallette.\n\
         2. Research about Core Product template.\n\
         3. Need clarification: Bank Feed.\n\
         4. Need old template: Purchasing, Project Proposal.\n\
@@ -200,7 +200,7 @@ addEntry("2024-04-15","\
 addEntry("2024-04-16","\
         1. Received the demo website from SV.\n\
         2. Obtain the copy of the source code by using website Developer Tools.\n\
-        3. Understand the overview and structure of the system through code.")
+        3. Understanding the overview and structure of the system through code.")
 addEntry("2024-04-17","\
         1. Try to change the submenu interface.\n\
         2. Grouped the Dashboard interface into single menu.")
@@ -275,19 +275,21 @@ addEntry("2024-05-17","\
 
 // WEEK 10
 addEntry("2024-05-20","\
-        1. Start doing Dashboard module.")
+        1. Start doing Welcome Page.")
 addEntry("2024-05-21","\
-        1. Continue with dashboard module.")
+        1. Continue with Welcome Page.\n\
+        2. Research and study to design APIs request")
 addEntry("2024-05-22","\
         WESAK")
 addEntry("2024-05-23","\
-        1. Continue with dashboard module.")
+        1. Start with Registration Page.")
 addEntry("2024-05-24","\
-        1. Continue with dashboard module.")
+        1. Continue with Registration Page.")
 
 // WEEK 11
 addEntry("2024-05-27","\
-        1. Receive new idea for the system from SV.")
+        1. Receive new idea for the system from SV.\n\
+        2. Research and study all SQL queries")
 addEntry("2024-05-28","\
         1. Use Deskera as main interface reference.")
 addEntry("2024-05-29","\
